@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "mammoth": "^1.9.1",
-    "next": "15.3.8",
+    "next": "15.3.3",
     "pdfjs-dist": "^2.16.105",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
